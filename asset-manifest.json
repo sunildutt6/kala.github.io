@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sunildutt6/kala.github.io.git/static/css/main.f6926269.css",
+    "main.js": "/sunildutt6/kala.github.io.git/static/js/main.be7afc9d.js",
+    "index.html": "/sunildutt6/kala.github.io.git/index.html",
+    "main.f6926269.css.map": "/sunildutt6/kala.github.io.git/static/css/main.f6926269.css.map",
+    "main.be7afc9d.js.map": "/sunildutt6/kala.github.io.git/static/js/main.be7afc9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6926269.css",
+    "static/js/main.be7afc9d.js"
+  ]
+}
